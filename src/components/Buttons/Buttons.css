@@ -1,0 +1,10 @@
+.Buttons {
+	width: 300px;
+	height: 370px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 10px;
+	margin: 0px auto;
+}
